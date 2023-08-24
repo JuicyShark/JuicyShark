@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Names Max otherwise known as JuicyShark, Im currently studying with aspirations of joining team blue one day
 <!--
 **JuicyShark/JuicyShark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
